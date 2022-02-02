@@ -1,0 +1,16 @@
+{
+  "name": "k",
+  "version": "1.0.0",
+  "description": "project group chat app",
+  "main": "index.js",
+  "dependencies": {
+    "express": "^4.17.2",
+    "nodemon": "^2.0.15"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "le b",
+  "license": "ISC"
+}
